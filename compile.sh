@@ -1,2 +1,2 @@
-gcc main.c -Wall -Wextra -lpthread
+gcc main.c -Wall -Wextra -lpthread -o randsched
 
